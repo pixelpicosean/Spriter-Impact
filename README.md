@@ -21,10 +21,10 @@ http://www.krisjet.com/spriterDemo
 
 
 ### Known Issues / Future improvements ###
-- Preloading of images doesn't work yet, the game starts without downloading images first. TODO.
-- Automatically find culling hitbox for the animations.
-- <s>Fix "duration" parameter to something that works as intended.<s>
-- Draw images using Impacts image class. Now it's only used for loading and storing data.
-- <s>Incorporating spiter.js and xml2json.sj as impact modules, so you don't have to load them in your index.html.</s>
-- Animations that do not loop doesn't work yet.
-- Add more features of spriter.js.
+* Preloading of images doesn't work yet, the game starts without downloading images first. TODO.
+* Automatically find culling hitbox for the animations.
+* <s>Fix "duration" parameter to something that works as intended.</s>
+* Draw images using Impacts image class. Now it's only used for loading and storing data.
+* <s>Incorporating spiter.js and xml2json.js as impact modules, so you don't have to load them in your index.html.</s>
+* Animations that do not loop doesn't work yet.
+* Add more features of spriter.js.
